@@ -1,0 +1,16 @@
+.Add-cart-card{
+    padding: 20px;
+}
+.Add-cart-buttons{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.Add-cart-title{
+    text-align: center;
+}
+
+.Add-cart-content{
+    text-align: center;
+}

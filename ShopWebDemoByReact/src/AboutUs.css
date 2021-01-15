@@ -1,0 +1,39 @@
+.AboutUs-items{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    flex-grow: 1;
+    justify-content: space-around;
+    align-items: flex-start;
+    padding: 50px;
+}
+
+.Pictures-items{
+    width: 60%;
+    /* background-color: aqua; */
+}
+.Describe-items{
+    width: 40%;
+    padding-top: 80px;
+    display: inline-flex;
+    flex-direction: column;
+    justify-content: start;
+}
+.Card-picture{
+    width: 100%;
+}
+
+.Describe-title{
+    color: #57423F;
+    text-align: start;/* align-self: flex-start; */
+}
+
+.Describe-content{
+    color: #57423F;
+    text-align: start;
+}
+
+.Describe-link{
+    color: #FD5353;
+    text-align: start; 
+}

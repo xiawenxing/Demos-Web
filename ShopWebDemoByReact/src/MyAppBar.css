@@ -1,0 +1,43 @@
+/* .Logo-text{
+    color: #FD5353;
+} */
+
+  .MyAppBar{
+    /* background-color: blue; */
+    /* color: blue; */
+ }
+
+.Toolbar-elements{
+    /* background-color: blueviolet; */
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.Logo-elements{
+    /* background-color: blueviolet; */
+    display: inline-flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: flex-start;
+    align-items: center;
+    color: #FD5353;
+}
+
+.Tabs{
+    display: inline-block;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.Tab-link{
+    
+}
+
+.Make-order-button{
+    display: 'inline-flex';
+    align-items: 'center';
+}
